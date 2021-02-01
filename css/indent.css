@@ -5,11 +5,12 @@ margin: 0; padding: 0; box-sizing: border-box;
 content: "";
 display: table;
 clear: both;
+
 }
 [class*="col-"] {
 background-color: pink;
 border:1px solid black;
-height: 200px;
+
 float: left;
 text-align: center;
 line-height: 200px;

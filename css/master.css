@@ -1,8 +1,11 @@
 [class*="text"] {
-border: none;
 }
+
+
 .scuro > .col-6, .footer {
-background-color:#d36e70;;
+
+border: 1px solid white;
+background-color:#d36e70;
 }
 .prima {
 margin-top: 50px;
